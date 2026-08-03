@@ -1,12 +1,29 @@
 {
-  "shows": {},
+  "shows": {
+    "CMMA|5751|20260804|NORMAL": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "01:30 PM",
+      "date": "20260804",
+      "cat": "NORMAL",
+      "price": "295.00",
+      "status": "3"
+    },
+    "CMMA|5751|20260804|VIP": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "01:30 PM",
+      "date": "20260804",
+      "cat": "VIP",
+      "price": "350.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20260802": "BOOKABLE",
-    "20260803": "AVAILABLE",
-    "20260804": "AVAILABLE",
+    "20260804": "BOOKABLE",
     "20260805": "AVAILABLE",
     "20260806": "AVAILABLE",
     "20260807": "NOT_OPEN",
-    "20260808": "NOT_OPEN"
+    "20260808": "NOT_OPEN",
+    "20260809": "NOT_OPEN",
+    "20260810": "NOT_OPEN"
   }
 }
