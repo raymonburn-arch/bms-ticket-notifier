@@ -14,16 +14,16 @@
       "date": "20260804",
       "cat": "VIP",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
     "20260804": "BOOKABLE",
     "20260805": "AVAILABLE",
     "20260806": "AVAILABLE",
-    "20260807": "NOT_OPEN",
-    "20260808": "NOT_OPEN",
-    "20260809": "NOT_OPEN",
+    "20260807": "AVAILABLE",
+    "20260808": "AVAILABLE",
+    "20260809": "AVAILABLE",
     "20260810": "NOT_OPEN"
   }
 }
